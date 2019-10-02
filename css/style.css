@@ -1,5 +1,16 @@
+
+/*font-family: brandon-grotesque, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;*/
+
+/*font-family: 'Abril Fatface', cursive;*/
+
+
+
 body {
-	background: #FAEBD7 url('../images/vintage-concrete.png');
+	/*background: #FAEBD7 url('../images/vintage-concrete.png');*/
 	color: #333;
 }
 
@@ -59,6 +70,22 @@ section ul, aside ul {
 
 aside {
 	padding: 40px 10px;
+}
+
+p {
+	font-family: brandon-grotesque, sans-serif;
+}
+
+li {
+	font-family: brandon-grotesque, sans-serif;
+}
+
+h1 {
+	font-family: courier-std, monospace;
+}
+
+h2, h3, h4, h5, h6 {
+	font-family: brandon-grotesque, sans-serif;
 }
 
 
